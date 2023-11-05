@@ -17,6 +17,22 @@ a = 'GABRIEL VITOR';
 console.log(a);
 
 /*
+tipos de variáveis em JAVACRIPT
+number = usado para guardar numeros
+string =  usado para guardas textos
+boolean =  usado para guardar valores true ou false
+objeto = usado apra guardar uma classe
+função = usado para guardar o retorno de uma função em javascript
+*/
+ let num1 = 1
+ let texto1 = 'olá mundo'
+ let bool = true
+ let carro = new carro()
+let retorno = function name() {
+    
+ }
+
+/*
 Entrada e saída de dados
 quando quero capturar o que um usuário digite, usamos a função prompt()
 para tipo numero podemos usar o parseInt(), onde oque for digitado ali dentro vai converter de
